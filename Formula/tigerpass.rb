@@ -2,7 +2,7 @@ class Tigerpass < Formula
   desc "TigerPass — Autonomous identity, assets & wallet CLI for AI agents"
   homepage "https://github.com/TigerPassNet/tigerpass"
   url "https://github.com/TigerPassNet/tigerpass/releases/download/v0.1.3/tigerpass-darwin-arm64.tar.gz"
-  sha256 "4a65523a2993e7d966639f7269318e970a428def34a0100697fa00b7e88fbe7b"
+  sha256 "f836665f81e8755e7cfd77fb928c21a47fba9c8269015e4fdd3fa487129c175a"
   version "0.1.3"
 
   depends_on :macos
